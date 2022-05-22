@@ -5,7 +5,7 @@ function Gif() {
   return (
     <img
       className="gif"
-      src="https://media.giphy.com/media/DYGbtrltNhHVX7xZTk/giphy.gif"
+      src="https://media.giphy.com/media/dHuKqGHoq4Cef54Ggf/giphy.gif"
       alt="gif-plant"
     />
   );
