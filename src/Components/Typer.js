@@ -7,7 +7,7 @@ function Typing() {
     <div className="type">
       <Typewriter
         options={{
-          strings: ["geek", "mover", "biomech", "software"],
+          strings: ["geek", "mover", "biomech", "soft dev"],
           autoStart: true,
           loop: true,
         }}
