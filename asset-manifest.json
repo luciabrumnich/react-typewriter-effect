@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-typewriter-effect/static/css/main.148d0462.css",
-    "main.js": "/react-typewriter-effect/static/js/main.d9e5a51f.js",
+    "main.css": "/react-typewriter-effect/static/css/main.2b5c5944.css",
+    "main.js": "/react-typewriter-effect/static/js/main.0a5ccd69.js",
     "static/js/787.8bc869b2.chunk.js": "/react-typewriter-effect/static/js/787.8bc869b2.chunk.js",
     "index.html": "/react-typewriter-effect/index.html",
-    "main.148d0462.css.map": "/react-typewriter-effect/static/css/main.148d0462.css.map",
-    "main.d9e5a51f.js.map": "/react-typewriter-effect/static/js/main.d9e5a51f.js.map",
+    "main.2b5c5944.css.map": "/react-typewriter-effect/static/css/main.2b5c5944.css.map",
+    "main.0a5ccd69.js.map": "/react-typewriter-effect/static/js/main.0a5ccd69.js.map",
     "787.8bc869b2.chunk.js.map": "/react-typewriter-effect/static/js/787.8bc869b2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.148d0462.css",
-    "static/js/main.d9e5a51f.js"
+    "static/css/main.2b5c5944.css",
+    "static/js/main.0a5ccd69.js"
   ]
 }
