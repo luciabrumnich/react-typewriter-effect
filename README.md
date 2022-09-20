@@ -1,6 +1,5 @@
 ## 🌿  Typewriter effect
 
-#### 🍃  [lux-soft](http://lux-soft.com) is my personal page -under construction-
 #### 🍃  ReactJS
 #### 🍃  Live [demo](https://luciabrumnich.github.io/react-typewriter-effect/).
 #
